@@ -1,0 +1,32 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+*.pyd
+*.pyo
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Pytest cache
+.pytest_cache/
+
+# FastAPI specific
+*.log
+instance/
+
+# System files
+.DS_Store
+Thumbs.db
